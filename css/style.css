@@ -1,0 +1,38 @@
+table, td, th, tfoot {
+    border:solid 1px #000; 
+    padding:5px;
+    
+}
+table{
+    background:navy;
+}
+td{
+    background:rgb(238, 229, 229);
+    font-size: 25px;
+}
+input{
+    background:navy;
+    color: aliceblue;
+    border-color:  navy;
+}
+nav {
+
+    width: 100%;
+    height: 100%;
+    background-color: navy;
+    z-index: 99;
+    border-radius: 25px;
+    
+}
+
+nav a {
+
+    color: #fff;
+    margin: auto 20px auto 40px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.essa{
+    background-color: aliceblue;
+}
